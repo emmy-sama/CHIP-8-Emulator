@@ -1,1 +1,1 @@
-# CPU-Simulator
+# CHIP-8-Emulator 
